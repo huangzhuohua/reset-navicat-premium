@@ -7,4 +7,3 @@
 
 reset.py 需要 python3环境才行！仅供学习使用！
 
-更多参考：https://51.ruyo.net/17611.html
